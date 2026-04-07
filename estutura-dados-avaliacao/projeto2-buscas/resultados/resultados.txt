@@ -1,0 +1,14 @@
+Tamanho do vetor: 1000
+Busca Sequencial -> Media: 18163,33 ns | Desvio Padrao: 50404,61 ns
+Busca Binaria    -> Media: 436,67 ns | Desvio Padrao: 316,74 ns
+Busca em Arvore  -> Media: 8710,00 ns | Desvio Padrao: 12219,67 ns
+
+Tamanho do vetor: 5000
+Busca Sequencial -> Media: 15116,67 ns | Desvio Padrao: 17156,52 ns
+Busca Binaria    -> Media: 1146,67 ns | Desvio Padrao: 1427,29 ns
+Busca em Arvore  -> Media: 20423,33 ns | Desvio Padrao: 4493,90 ns
+
+Tamanho do vetor: 10000
+Busca Sequencial -> Media: 3150,00 ns | Desvio Padrao: 192,79 ns
+Busca Binaria    -> Media: 50,00 ns | Desvio Padrao: 50,00 ns
+Busca em Arvore  -> Media: 39263,33 ns | Desvio Padrao: 7789,80 ns

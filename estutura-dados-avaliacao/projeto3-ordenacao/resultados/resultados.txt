@@ -1,0 +1,37 @@
+Tamanho do vetor: 1000 | Melhor Caso
+Merge Sort -> Media: 62216,67 ns | Desvio Padrao: 118637,85 ns
+Quick Sort -> Media: 687116,67 ns | Desvio Padrao: 1096473,27 ns
+
+Tamanho do vetor: 1000 | Caso Medio
+Merge Sort -> Media: 105863,33 ns | Desvio Padrao: 45665,64 ns
+Quick Sort -> Media: 58423,33 ns | Desvio Padrao: 31645,58 ns
+
+Tamanho do vetor: 1000 | Pior Caso
+Merge Sort -> Media: 63486,67 ns | Desvio Padrao: 3276,56 ns
+Quick Sort -> Media: 275656,67 ns | Desvio Padrao: 9245,92 ns
+
+--------------------------------------------------
+Tamanho do vetor: 5000 | Melhor Caso
+Merge Sort -> Media: 174900,00 ns | Desvio Padrao: 15829,99 ns
+Quick Sort -> Media: 9854913,33 ns | Desvio Padrao: 208507,61 ns
+
+Tamanho do vetor: 5000 | Caso Medio
+Merge Sort -> Media: 414820,00 ns | Desvio Padrao: 123661,11 ns
+Quick Sort -> Media: 224026,67 ns | Desvio Padrao: 13929,10 ns
+
+Tamanho do vetor: 5000 | Pior Caso
+Merge Sort -> Media: 263550,00 ns | Desvio Padrao: 268824,98 ns
+Quick Sort -> Media: 7271270,00 ns | Desvio Padrao: 123136,69 ns
+
+--------------------------------------------------
+Tamanho do vetor: 10000 | Melhor Caso
+Merge Sort -> Media: 272106,67 ns | Desvio Padrao: 18467,45 ns
+Quick Sort -> Media: 39309556,67 ns | Desvio Padrao: 583068,81 ns
+
+Tamanho do vetor: 10000 | Caso Medio
+Merge Sort -> Media: 739256,67 ns | Desvio Padrao: 49125,69 ns
+Quick Sort -> Media: 459706,67 ns | Desvio Padrao: 6291,63 ns
+
+Tamanho do vetor: 10000 | Pior Caso
+Merge Sort -> Media: 438226,67 ns | Desvio Padrao: 28161,14 ns
+Quick Sort -> Media: 28819286,67 ns | Desvio Padrao: 408719,51 ns

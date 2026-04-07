@@ -1,0 +1,15 @@
+Tamanho: 1000
+BST -> Media: 1350,00 ns
+AVL -> Media: 380,00 ns
+Caixeiro viajante (custo): 262.0
+----------------------------
+Tamanho: 5000
+BST -> Media: 443,33 ns
+AVL -> Media: 230,00 ns
+Caixeiro viajante (custo): 349.0
+----------------------------
+Tamanho: 10000
+BST -> Media: 646,67 ns
+AVL -> Media: 1483,33 ns
+Caixeiro viajante (custo): 376.0
+----------------------------
