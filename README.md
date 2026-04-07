@@ -7,6 +7,8 @@ Este trabalho foi desenvolvido em grupo pelos integrantes:
 
 O desenvolvimento foi realizado de forma colaborativa, com discussões e alinhamentos através do Discord, além da divisão de tarefas entre os integrantes.
 
+Projeto desenvolvido no visual studeo code e upado no github
+
 ## Projetos
 
 - Projeto 1: Árvores
