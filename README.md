@@ -1,5 +1,11 @@
 # estrutura-dados
-Repositório do trabalho de Estruturas, pesquisas e ordenação de dados realizado por Jefferson Luis Namur Junior, Luiz Gustavo Becher Bolzani e Zoltan Geocze
+Este trabalho foi desenvolvido em grupo pelos integrantes:
+
+- Luiz Gustavo Becher Bolzani
+- Jefferson Luis Namur Junior
+- Zoltan Geocze
+
+O desenvolvimento foi realizado de forma colaborativa, com discussões e alinhamentos através do Discord, além da divisão de tarefas entre os integrantes.
 
 ## Projetos
 
